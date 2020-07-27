@@ -1,7 +1,7 @@
 # Washington_Post_Police_Shootings
 <div>Credits go to washingtonpost for providing the police shooting dataset.</div>
 <div>Credits go to Census.gov for providing census information.</div>
-
+<div></div>
 <a href="https://github.com/washingtonpost/data-police-shootings">washingtonpost Dataset Information found here</a>
 
 <a href="https://www.census.gov/quickfacts/fact/table/US/PST045219">Census Information found here</a>
