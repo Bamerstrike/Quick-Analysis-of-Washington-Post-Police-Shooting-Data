@@ -1,7 +1,7 @@
 # Washington_Post_Police_Shootings
-Made some graphs for Washington Post's Data
+# Credits go to washingtonpost for providing the dataset.
 
-<a href="https://github.com/washingtonpost/data-police-shootings">Dataset Information found here</a>
+<a href="https://github.com/washingtonpost/data-police-shootings">washingtonpost Dataset Information found here</a>
 
 <a href="https://www.census.gov/quickfacts/fact/table/US/PST045219">Census Information found here</a>
 
