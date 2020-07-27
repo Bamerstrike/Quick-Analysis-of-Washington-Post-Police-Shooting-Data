@@ -8,7 +8,7 @@ Made some graphs for Washington Post's Data
 
 <h1>Deaths by race:</h1>
 <img src="https://github.com/Bamerstrike/Washington_Post_Police_Shootings/blob/master/Images/Death%20By%20Police%20from%202015%20Until%20Now.jpg" alt="Deaths according to Race from police shootings." width="600" height="400">
-<p>This chart shows 1304 black deaths and 2500 white deaths from police shootings since 2015. If this was the argument to claim that white deaths happen a lot more than black, then perhaps the argument for police brutality is an important discussion that needs to happen right?</p>
+<p>This chart shows 1304 black deaths and 2500 white deaths from police shootings since 2015.</p>
 <p>But lets try looking at the information from another perspective. Lets look at the amount of people for each race</p>
 
 <table align="center">
